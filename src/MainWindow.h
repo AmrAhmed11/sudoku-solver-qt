@@ -11,4 +11,4 @@ public:
     ~MainWindow();
 };
 
-#endif // MAINWINDOW_H
+#endif 
