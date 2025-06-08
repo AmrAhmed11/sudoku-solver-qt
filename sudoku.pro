@@ -19,7 +19,7 @@ HEADERS += \
     src/SudokuBoard.h
 
 FORMS += \
-    ui/MainWindow.ui
+    ui/mainwindow.ui
 
 # Where to put compiled objects and binaries
 OBJECTS_DIR = build/obj
